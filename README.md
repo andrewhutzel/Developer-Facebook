@@ -1,7 +1,3 @@
-# Current active heroku session
-
-https://blooming-mountain-04128.herokuapp.com/
-
 !!!NOTE!!!
 
 I do not keep up with active registering on the website, this is merely a proof of concept. Any weird pictures are filtered, BUT textbox entries are not currently filtered!
