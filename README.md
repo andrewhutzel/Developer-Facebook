@@ -14,6 +14,17 @@ Once the repository is cloned and up in running in your personalized IDE, you wi
 npm install
 ```
 
+Due to the nature of this being a no longer maintained project, if you wish to run this you'll need to install nvm (instruction for Windows and Linux are provided below). You will need to roll the version of node back to 16.20.2. Assuming you're on a Windows device you can follow along with the instructions below to get it working. 
+
+Download and install NVM ( https://github.com/coreybutler/nvm-windows/releases)
+Reboot your IDE so it can register the changes. Assuming the install was successful run:
+
+```
+nvm install 16.20.2
+nvm use 16.20.2
+```
+
+
 ### Running
 
 Once you've installed the prerequisites, cd back into the root directory and run the command below. Note, you will not be able to utilizing the website properly without a backend (MongoDb).
